@@ -1,5 +1,5 @@
 # cub3d
-## 1. 실행
+## 1. 실행 (MacOS)
 ~~~bash
 #실행 (이동 : WASD / 시야전환 : <- ->)
 git clone https://github.com/tapark/cub3d.git && cd cub3d && make && ./cub3D maps/map2.cub
